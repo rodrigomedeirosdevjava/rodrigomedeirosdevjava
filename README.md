@@ -1,6 +1,6 @@
 # 🚀 Personal API Documentation
 
-Welcome to my personal API documentation. This API provides information about me as a Back-End Developer specialized in Java Spring Boot and PHP Laravel.
+Welcome to my personal API documentation. This API provides information about me as a Software Engineer Java and PHP Specialist.
 
 ## Base URL
 
