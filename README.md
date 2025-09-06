@@ -18,7 +18,7 @@ Returns comprehensive information about my professional profile.
 {
   "name": "Rodrigo Medeiros",
   "age": 40,
-  "profession": "Back-End Developer",
+  "profession": "Software Engineer Java and PHP Specialist",
   "specialization": "Java with Spring Boot | PHP with Laravel | APIs & Microservices",
   "about_me": "I am passionate about building the foundation and business logic of web applications through robust APIs and microservices architectures. My career has allowed me to work on projects across diverse sectors, including financial, banking, e-commerce, logistics, and government, always focusing on delivering secure, scalable, and low-maintenance solutions.",
   "technical_skills": {
